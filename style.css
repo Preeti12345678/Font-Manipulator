@@ -25,7 +25,7 @@
     background-size: 100%;
 }
 canvas{
-    box-shadow: 5px 5px 5px 5px white;
-    border: 2px solid wheat;
-    border-radius: 10px 5px 20px 1px;
+    box-shadow: 5px 5px 5px 20px white;
+    border: 2px solid white;
+    border-radius: 20px;
 }
